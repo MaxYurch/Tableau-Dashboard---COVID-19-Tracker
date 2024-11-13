@@ -2,6 +2,9 @@
 
 ### Dashboard Link : https://public.tableau.com/app/profile/maxim.yurchak/viz/COVID-19TrackerDashboard_17315167477130/GlobalVaccineTracker?publish=yes
 
+![Screenshot 2024-11-13 at 8 14 40 PM](https://github.com/user-attachments/assets/68492ec1-1d24-4207-a690-076e7f07c195)
+![Screenshot 2024-11-13 at 8 14 54 PM](https://github.com/user-attachments/assets/fbb63168-72ed-44fc-8cf3-af5eaa1c3590)
+
 ## Overview
 The **COVID-19 Tracker Dashboard** is a Tableau-based project designed to provide insights into COVID-19 vaccination and case data across multiple countries. It visualizes critical metrics to track the pandemic's progression and vaccination efforts worldwide.
 
